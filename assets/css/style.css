@@ -26,10 +26,60 @@ h1 {
     font-size: 350%;
 }
 
-#menu {
-    float: right;
+#logo, #menu {
+    line-height: 75px;
 }
 
-a {
-    color: #ffff;
+#logo-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/pexels-pixabay-434295.jpg') no-repeat center center;
 }
+
+#logo-parent {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#logo-text {
+    color: #ffff;
+    font-size: 125%;
+    font-family: "Rajdhani", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
+    width: 400px;
+    height: 300px;
+
+    padding-top: 30px;
+    padding-left: 10px;
+
+    background-color: rgb(255, 160, 122, .4);
+
+   bottom: 30px;
+   right: 150px;
+   position: absolute;
+}
+
+/*Nav links*/
+#menu {
+    font-size: 125%;
+    letter-spacing: 3px;
+}
+#menu li {
+    float: right;
+    list-style: none;
+    margin-right: 30px;
+
+}
+#menu a {
+    color: #ffff;
+    text-decoration: none;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #ffff;
+}
+
