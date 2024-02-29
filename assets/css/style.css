@@ -72,18 +72,24 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 3px;
     
-
     width: 100%;
-
-    
+ 
     padding:10px 10px;
     
-  
     background-color: rgb(255, 160, 122, .5);
     
 }
 
-
 /* About us*/
+
+/* Media query: tablets and larger (768px and up) */
+
+@media screen and (min-width:768px) {
+    /* header */
+    #logo {
+        padding: 5px 20px;
+    }
+    
+}
 
 
