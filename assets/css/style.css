@@ -136,9 +136,9 @@ h1 {
 .text-input {
     width: 100%;
     height: 20px;
-    margin: 5px 0 20px 0;
+    margin: 0 5px 15px 0;
     border-radius: 2px;
-    padding: 0px 5px;
+    padding-left: 5px;
 }
 
 #contact-text {
@@ -153,6 +153,10 @@ h1 {
     
 }
 
+input[type="text"]::placeholder {
+   
+}
+
 #submit {
     width: 60%;
     border-radius: 2px;
@@ -163,11 +167,10 @@ h1 {
 
 /* Media query: tablets and larger (768px and up) */
 
-@media screen and (min-width:506px) {
+@media screen and (min-width:502px) {
     /* header */
     #logo {
-        padding: 5px 20px;
+        padding: auto;
     } 
 }
-
 
