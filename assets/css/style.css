@@ -165,6 +165,29 @@ input[type="text"]::placeholder {
     background-color: #ffff;
 }
 
+#socials {
+    background-color: #ffff;
+    color: darksalmon;
+    width: 100%;
+    padding: 10px;
+
+    text-align: center;
+    font-size: 80%;
+}
+
+#social-media{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    
+}
+
+#socials li {
+    color: darksalmon;
+    
+}
+
 /* Media query: tablets and larger (768px and up) */
 
 @media screen and (min-width:502px) {
