@@ -14,7 +14,7 @@ body {
 }
 /* Heading and Loogo */
 h1 {
-    font-family: "Rajdhani", sans-serif;
+    
     font-weight: 500;
     color: #ffff;
     text-transform: uppercase;
@@ -126,6 +126,8 @@ h1 {
     margin: 100px auto;
     width: 70%;
     padding: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
 #contact-us h3 {
@@ -173,13 +175,16 @@ input[type="text"]::placeholder {
 
     text-align: center;
     font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+   
 }
 
 #social-media{
     list-style: none;
     display: flex;
     justify-content: space-around;
-    margin: 10px;
+    margin: 10px 10px 0;
     
 }
 
