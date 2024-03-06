@@ -36,16 +36,16 @@ h1 {
 /*Nav links*/
 
 #menu {
-    letter-spacing: 4px;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    float: right;
 
 }
 #menu li {
-    float: right;
-    list-style: none;
-    margin-right: 5px;
-  
-    padding: 10px 5px 5px;
+    display: flex;
+    margin: auto 10px;
+   
     
 }
 #menu a {
