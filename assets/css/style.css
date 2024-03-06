@@ -38,13 +38,15 @@ h1 {
 #menu {
     display: flex;
     justify-content: space-between;
-    align-items: center;
     float: right;
+    padding: 5px;
+   
+    
 
 }
 #menu li {
     display: flex;
-    margin: auto 10px;
+    margin-right: 10px;
    
     
 }
