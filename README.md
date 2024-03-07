@@ -1,6 +1,6 @@
 # Healthy Sugar Club
 
-Healthy Sugar Club is a community created to guide people in a healthy style. The site is targeted to those looking for support. Healthy Sugar Club will be useful to help guide people through the journey of changing an old habit. 
+Healthy Sugar Club is a community created to guide people in a healthy life style. The site is targeted to those looking for support. Healthy Sugar Club will be useful to help guide people through the journey of changing an old habit. 
 
 Welcome to Healthy Sugar Club Community [Healthy Sugar Club](https://juliavolponi.github.io/sugar-club/)
 
