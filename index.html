@@ -7,6 +7,7 @@
     <meta name="keywords" content="healthy, community, gym, diet, recipes">
     <link rel="stylesheet" href="assets/css/style.css">
     <script src="https://kit.fontawesome.com/e82ba92a32.js" crossorigin="anonymous"></script>
+    <!--Title-->
     <title>Healthy Sugar Club</title>
 </head>
 
@@ -20,9 +21,9 @@
         <!-- Menu navbar -->
         <nav id="navbar">
             <ul id="menu">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About Us</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#home_section">Home</a></li>
+                <li><a href="#about_section">About Us</a></li>
+                <li><a href="#contact_section">Contact</a></li>
 
 
             </ul>
@@ -30,7 +31,7 @@
 
     </header>
     <!--Header image-->
-    <section id="logo-parent">
+    <section id="home_section" class="logo-parent">
         <div id="logo-image">
             <h2 id="logo-text">If you’re looking for support and people in the same path as you, engaging in a new
                 healthy style, then
@@ -38,7 +39,7 @@
         </div>
     </section>
     <!--About us Section-->
-    <section id="main">
+    <section id="about_section" class="main">
         <div id="about-us">
             <h2>About Us</h2>
             <p>We created this community with the purpose of encouraging anyone whose been struggling with changing
@@ -54,10 +55,14 @@
                 <li>Daily Report of Progress</li>
             </ul>
         </div>
+        <div id="about-imgs">
+            <img src="assets/images/pexels-alleksana-4113867.jpg" alt="">
+            <img src="assets/images/pexels-nestor-cortez-1157835.jpg" alt="">
+        </div>
     </section>
     <!--Contact Section-->
 
-    <section id="contact-us">
+    <section id="contact_section" class="contact-us">
         <div>
             <h2>Contact Us</h2>
             <h3>Interested in our community? Get in touch with us</h3>
@@ -65,14 +70,14 @@
         <form id="contact-form" method="get">
             <label for="name">Name</label>
             <input type="text" name="name" id="name" class="text-input" placeholder="Type your Full Name" required>
-            <br/>
+            <br />
             <label for="email">Email</label>
-            <input type="email" name="email-address" id="email-address" class="text-input"
-                placeholder="Type your Email" required>
-            <br/>
+            <input type="email" name="email-address" id="email-address" class="text-input" placeholder="Type your Email"
+                required>
+            <br />
             <label for="text">Contact Message</label>
             <input type="text" name="contact-text" id="contact-text" class="text-input" required>
-            <br/>
+            <br />
             <input type="submit" value="submit" id="submit">
         </form>
     </section>

@@ -46,7 +46,7 @@ h1 {
 }
 #menu li {
     display: flex;
-    
+    font-weight: 500;
     letter-spacing: 1px;
    
     
@@ -85,14 +85,14 @@ h1 {
     
 }
 
-#logo-parent {
+.logo-parent {
     margin-bottom: 100px;
 }
 
 /* About us*/
 
 
-#main {
+.main {
     margin: 20px auto;
     padding: 10px;
     width: 90%;
@@ -106,7 +106,7 @@ h1 {
     font-size: 120%;
 }
 
-#main h2 {
+.main h2 {
   padding: 10px;
 }
 
@@ -118,10 +118,20 @@ h1 {
 #reasons-list {
     list-style: none;
 }
+#about-imgs {
+display: flex;
+flex-direction: row;
+}
 
+#about-imgs img {
+    width: 50%;
+    border-radius: 5px;
+    margin: auto 1px;
+    
+}
 /*Contact us*/
 
-#contact-us {
+.contact-us {
     
     border: 5px solid #ffff;
     border-radius: 7px;
@@ -135,7 +145,7 @@ h1 {
     letter-spacing: 2px;
 }
 
-#contact-us h3 {
+.contact-us h3 {
     font-size: 100%;
     margin-bottom: 20px;
 }
