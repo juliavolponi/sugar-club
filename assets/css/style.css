@@ -46,7 +46,7 @@ h1 {
 }
 #menu li {
     display: flex;
-    margin: 40px 20px 0 0;
+    
     letter-spacing: 1px;
    
     
@@ -54,8 +54,8 @@ h1 {
 #menu a {
     color: #ffff;
     text-decoration: none;
-    font-size: 115%;
-    font-weight: 300;
+    padding: 0.5rem;
+    display: block;
 }
 
 #menu a:hover {
@@ -202,10 +202,10 @@ h1 {
 
 /* Media query: tablets and larger (768px and up) */
 
-@media screen and (min-width:502px) {
+@media screen and (min-width:650px) {
     /* header */
-    #logo {
-        padding: auto;
+    #menu li {
+        margin: 30px 10px 0 0;
     } 
 }
 
