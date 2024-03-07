@@ -12,17 +12,19 @@ body {
     background-color: darksalmon;
     color: #ffff;
 }
+
 /* Heading and Logo */
 h1 {
-    
+
     font-weight: 500;
     color: #ffff;
     text-transform: uppercase;
     letter-spacing: 3px;
     text-align: center;
-    
-    
+
+
 }
+
 #logo {
     float: left;
     font-size: 250%;
@@ -40,24 +42,26 @@ h1 {
     justify-content: space-between;
     float: right;
     padding: 5px;
-   
-    
+
+
 
 }
+
 #menu li {
     display: flex;
     font-weight: 500;
     letter-spacing: 1px;
-   
-    
+
+
 }
+
 #menu a {
     color: #ffff;
     text-decoration: none;
     padding: 0.5rem;
     display: block;
 }
-
+/*when mouse is on the border color shows */
 #menu a:hover {
     border-bottom: 1px solid #ffff;
 }
@@ -65,9 +69,9 @@ h1 {
 #logo-image {
     height: 600px;
     width: 100%;
-   background: url(../images/pexels-pixabay-434295.jpg)no-repeat center/cover;
-   display: flex;
-   align-items: end;
+    background: url(../images/pexels-pixabay-434295.jpg)no-repeat center/cover;
+    display: flex;
+    align-items: end;
 }
 
 #logo-text {
@@ -76,13 +80,13 @@ h1 {
     font-family: "Rajdhani", sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    
+
     width: 100%;
- 
-    padding:10px 10px;
-    
+
+    padding: 10px 10px;
+
     background-color: rgb(255, 160, 122, .8);
-    
+
 }
 
 .logo-parent {
@@ -107,32 +111,34 @@ h1 {
 }
 
 .main h2 {
-  padding: 10px;
+    padding: 10px;
 }
 
 #reasons li {
     margin-bottom: 10px;
-    
+
 }
 
 #reasons-list {
     list-style: none;
 }
+/*about images section */
 #about-imgs {
-display: flex;
-flex-direction: row;
+    display: flex;
+    flex-direction: row;
 }
 
 #about-imgs img {
     width: 50%;
     border-radius: 5px;
     margin: auto 1px;
-    
+
 }
+
 /*Contact us*/
 
 .contact-us {
-    
+
     border: 5px solid #ffff;
     border-radius: 7px;
     background-color: rgb(255, 171, 138);
@@ -162,14 +168,14 @@ flex-direction: row;
     height: 70px;
 }
 
-::placeholder{
+::placeholder {
     font-size: 70%;
     color: darksalmon;
     opacity: 0.5;
     letter-spacing: 1px;
-    
-}
 
+}
+/*submit button*/
 #submit {
     width: 50%;
     border-radius: 4px;
@@ -177,31 +183,32 @@ flex-direction: row;
     color: darksalmon;
     background-color: #ffff;
 }
+
 /*Footer section*/
 #socials {
     background-color: #ffff;
     color: darksalmon;
-   
+
     padding: 10px;
 
     text-align: center;
     font-size: 80%;
     text-transform: uppercase;
     letter-spacing: 1px;
-   
+
 }
 
-#social-media{
+#social-media {
     list-style: none;
     display: flex;
     justify-content: space-around;
     margin: 10px 10px 0;
-    
+
 }
 
 #socials li {
     color: darksalmon;
-    
+
 }
 
 .fa-brands {
@@ -213,9 +220,9 @@ flex-direction: row;
 /* Media query: tablets and larger (768px and up) */
 
 @media screen and (min-width:650px) {
+
     /* header */
     #menu li {
         margin: 30px 10px 0 0;
-    } 
+    }
 }
-
