@@ -6,11 +6,17 @@ Welcome to Healthy Sugar Club Community [Healthy Sugar Club](https://juliavolpon
 
 ![Healthy Sugar Club responsive design](assets/images/Screenshot%202024-03-06%20at%2010.22.26.png)
 
-## Site Structure
-Healthy Sugar Club has three different sections. The home section is the first one you see when opening the website, there is a navigation menu describing the three sections. Right after you will find the about section where it explains the purpose of the website, and right underneath there is the contact section where the target person will fill the information so we can get back in contact.
+# User Experience
+
+## Design Choices
+* ### Tipography
+* The font chosen were 'Rajdhani' for the heading and for the body text. It falls back to sans-serif respectively.
+* ## Colour Scheme 
+* The colour scheme eventually chosen is based on pink/salmon and off-white. The colour contrasts with the fruits colour in many of the images. Pink traditionally gives the impression of woman, sweet and empowerment. This is something that Healthy Sugar Club can hopefully pass onto the user.
 
 ## Features
 Healthy Sugar Club is an easy site to use where anyone can feel familiar with each section, making it quick and easy to invite the person to get in contact.
+### Existing Features
 
 * ### The Header
 * The header presents the name of the club with a picture illustrating the idea of the website. 
@@ -23,7 +29,7 @@ Healthy Sugar Club is an easy site to use where anyone can feel familiar with ea
 * About Us section explains clearly what the purpose of the website is, giving the main information about it.
 * It is also described the options of what is given in the community.
 
-![Healthy Sugar Club about section](assets/images/Screenshot%202024-03-06%20at%2010.44.22.png)
+![Healthy Sugar Club about section](assets/images/Screenshot%202024-03-07%20at%2013.02.22.png)
 
 * ### Contact Form
 * The contact form collect the name, email and the question of the person behind.
@@ -36,12 +42,26 @@ Healthy Sugar Club is an easy site to use where anyone can feel familiar with ea
 
 ![Healthy Sugar Club Footer](assets/images/Screenshot%202024-03-06%20at%2010.52.28.png)
 
-#Testing 
+## Technologies Used
+* HTML5 - provides the content and structure for the website.
+* CSS - provides the styling.
+* Gitpod - used to deploy the website.
+* Github - used to host and edit the website.
+
+## Testing 
 * I tested this page in different browsers: Chrome, Safari, Firefox.
 * I confirm that this project is responsive, looking good on all standard screen sizes checked with the devtools device toolbar.
 * The form is working only accepting email on email field, and the submit button gets the information provided.
 
-#Deployment
+### Validator Testing
+* HTML
+* No erros were returned when passing through the official W3C validator
+CSS
+![HTML testing showing no error](assets/images/Screenshot%202024-03-07%20at%2013.25.23.png)
+* No erros were returned when passing through the official(Jigsaw) validator
+![CSS testing showing no error](assets/images/Screenshot%202024-03-07%20at%2013.27.18.png)
+
+## Deployment
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
 * In the Github Repository, navigate to the Settings tab
 * From the source section drop-down menu, select the Master Branch
