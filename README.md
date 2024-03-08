@@ -66,3 +66,22 @@ CSS
 * In the Github Repository, navigate to the Settings tab
 * From the source section drop-down menu, select the Master Branch
 * Once the master branch has been selected, the page provided the link to the completed website.
+![step for deployment on github](assets/images/deploy_step.png)
+
+The live link to the Github repository can be found here: https://juliavolponi.github.io/sugar-club/
+
+## To fork repository on Github
+A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
+
+1. Log in to GitHub and locate the repository.
+2. n the right hand side of the page inline with the repository name is a button called 'Fork', click on the button to create a copy of the original repository in your GitHub Account.
+![fork step on github](assets/images/fork_step.png)
+
+## To create a local clone of this project
+1. Under the repository’s name, click on the code tab.
+2. In the Clone with HTTPS section, click on the clipboard icon to copy the given URL.
+![clone step on Github](assets/images/clone_step.png)
+3. In your IDE of choice, open Git Bash.
+Change the current working directory to the location where you want the cloned directory to be made.
+4. Type git clone, and then paste the URL copied from GitHub.
+5. Press enter and the local clone will be created.
