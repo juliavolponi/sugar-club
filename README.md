@@ -19,21 +19,21 @@ Healthy Sugar Club is an easy site to use where anyone can feel familiar with ea
 ### Existing Features
 
 * ### The Header
-* The header presents the name of the club with a picture illustrating the idea of the website. 
-* The color chosen to the website is Salmon and white.
-* On the right corner on top of the page you find the navigation menu describing the three sections of the website.
+   * The header presents the name of the club with a picture illustrating the idea of the website. 
+   * The color chosen to the website is Salmon and white.
+   * On the right corner on top of the page you find the navigation menu describing the three sections of the website.
 
 ![Healthy Sugar Club logo picture](assets/images/header.png)
 
 * ### About Us Section
-* About Us section explains clearly what the purpose of the website is, giving the main information about it.
-* It is also described the options of what is given in the community.
+   * About Us section explains clearly what the purpose of the website is, giving the main information about it.
+   * It is also described the options of what is given in the community.
 
 ![Healthy Sugar Club about section](assets/images/about.png)
 
 * ### Contact Form
-* The contact form collect the name, email and the question of the person behind.
-* That makes it easier to get back in touch with the answer and making it better the contact between the staff and the member.
+   * The contact form collect the name, email and the question of the person behind.
+   * That makes it easier to get back in touch with the answer and making it better the contact between the staff and the member.
 
 ![Healthy Sugar Club contact form](assets/images/contact.png)
 
