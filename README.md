@@ -4,7 +4,7 @@ Healthy Sugar Club is a community created to guide people in a healthy life styl
 
 Welcome to Healthy Sugar Club Community [Healthy Sugar Club](https://juliavolponi.github.io/sugar-club/)
 
-![Healthy Sugar Club responsive design](assets/images/Screenshot%202024-03-06%20at%2010.22.26.png)
+![Healthy Sugar Club responsive design](assets/images/responsive_screens.png)
 
 # User Experience
 
@@ -23,24 +23,24 @@ Healthy Sugar Club is an easy site to use where anyone can feel familiar with ea
 * The color chosen to the website is Salmon and white.
 * On the right corner on top of the page you find the navigation menu describing the three sections of the website.
 
-![Healthy Sugar Club logo picture](assets/images/Screenshot%202024-03-06%20at%2010.41.08.png)
+![Healthy Sugar Club logo picture](assets/images/header.png)
 
 * ### About Us Section
 * About Us section explains clearly what the purpose of the website is, giving the main information about it.
 * It is also described the options of what is given in the community.
 
-![Healthy Sugar Club about section](assets/images/Screenshot%202024-03-07%20at%2013.02.22.png)
+![Healthy Sugar Club about section](assets/images/about.png)
 
 * ### Contact Form
 * The contact form collect the name, email and the question of the person behind.
 * That makes it easier to get back in touch with the answer and making it better the contact between the staff and the member.
 
-![Healthy Sugar Club contact form](assets/images/Screenshot%202024-03-06%20at%2010.48.14.png)
+![Healthy Sugar Club contact form](assets/images/contact.png)
 
 * ### Footer
 * It is also available to find the club on social medias so the person can have an idea of everything posted and shared.
 
-![Healthy Sugar Club Footer](assets/images/Screenshot%202024-03-06%20at%2010.52.28.png)
+![Healthy Sugar Club Footer](assets/images/footer.png)
 
 ## Technologies Used
 * HTML5 - provides the content and structure for the website.
@@ -57,9 +57,9 @@ Healthy Sugar Club is an easy site to use where anyone can feel familiar with ea
 * HTML
 * No erros were returned when passing through the official W3C validator
 CSS
-![HTML testing showing no error](assets/images/Screenshot%202024-03-07%20at%2013.25.23.png)
+![HTML testing showing no error](assets/images/html.png)
 * No erros were returned when passing through the official(Jigsaw) validator
-![CSS testing showing no error](assets/images/Screenshot%202024-03-07%20at%2013.27.18.png)
+![CSS testing showing no error](assets/images/css_validator.png)
 
 ## Deployment
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
