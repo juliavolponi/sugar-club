@@ -61,6 +61,7 @@ h1 {
     padding: 0.5rem;
     display: block;
 }
+
 /*when mouse is on the border color shows */
 #menu a:hover {
     border-bottom: 1px solid #ffff;
@@ -122,10 +123,11 @@ h1 {
 #reasons-list {
     list-style: none;
 }
+
 /*about images section */
 #about-imgs {
     display: flex;
-    flex-direction: row;
+
 }
 
 #about-imgs img {
@@ -158,14 +160,13 @@ h1 {
 
 .text-input {
     width: 100%;
-    height: 20px;
     margin: 0 5px 15px 0;
     border-radius: 4px;
     padding-left: 5px;
 }
 
 #contact-text {
-    height: 70px;
+    height: 150px;
 }
 
 ::placeholder {
@@ -175,6 +176,7 @@ h1 {
     letter-spacing: 1px;
 
 }
+
 /*submit button*/
 #submit {
     width: 50%;
