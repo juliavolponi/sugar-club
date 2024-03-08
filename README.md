@@ -10,9 +10,9 @@ Welcome to Healthy Sugar Club Community [Healthy Sugar Club](https://juliavolpon
 
 ## Design Choices
 * ### Tipography
-* The font chosen were 'Rajdhani' for the heading and for the body text. It falls back to sans-serif respectively.
+  * The font chosen were 'Rajdhani' for the heading and for the body text. It falls back to sans-serif respectively.
 * ## Colour Scheme 
-* The colour scheme eventually chosen is based on pink/salmon and off-white. The colour contrasts with the fruits colour in many of the images. Pink traditionally gives the impression of woman, sweet and empowerment. This is something that Healthy Sugar Club can hopefully pass onto the user.
+  * The colour scheme eventually chosen is based on pink/salmon and off-white. The colour contrasts with the fruits colour in many of the images. Pink traditionally gives the impression of woman, sweet and empowerment. This is something that Healthy Sugar Club can hopefully pass onto the user.
 
 ## Features
 Healthy Sugar Club is an easy site to use where anyone can feel familiar with each section, making it quick and easy to invite the person to get in contact.
@@ -63,9 +63,9 @@ CSS
 
 ## Deployment
 * The site was deployed to GitHub pages. The steps to deploy are as follows:
-* In the Github Repository, navigate to the Settings tab
-* From the source section drop-down menu, select the Master Branch
-* Once the master branch has been selected, the page provided the link to the completed website.
+   * In the Github Repository, navigate to the Settings tab
+   * From the source section drop-down menu, select the Master Branch
+   * Once the master branch has been selected, the page provided the link to the completed website.
 ![step for deployment on github](assets/images/deploy_step.png)
 
 The live link to the Github repository can be found here: https://juliavolponi.github.io/sugar-club/
@@ -74,7 +74,7 @@ The live link to the Github repository can be found here: https://juliavolponi.g
 A copy of the GitHub Repository can be made by forking the GitHub account. This copy can be viewed and changes can be made to the copy without affecting the original repository. Take the following steps to fork the repository;
 
 1. Log in to GitHub and locate the repository.
-2. n the right hand side of the page inline with the repository name is a button called 'Fork', click on the button to create a copy of the original repository in your GitHub Account.
+2. In the right hand side of the page inline with the repository name is a button called 'Fork', click on the button to create a copy of the original repository in your GitHub Account.
 ![fork step on github](assets/images/fork_step.png)
 
 ## To create a local clone of this project
