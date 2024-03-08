@@ -55,10 +55,10 @@ Healthy Sugar Club is an easy site to use where anyone can feel familiar with ea
 
 ### Validator Testing
 * HTML
-* No erros were returned when passing through the official W3C validator
-CSS
+  * No erros were returned when passing through the official W3C validator
 ![HTML testing showing no error](assets/images/html.png)
-* No erros were returned when passing through the official(Jigsaw) validator
+* CSS
+  * No erros were returned when passing through the official(Jigsaw) validator
 ![CSS testing showing no error](assets/images/css_validator.png)
 
 ## Deployment
