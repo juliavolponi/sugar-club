@@ -85,3 +85,16 @@ A copy of the GitHub Repository can be made by forking the GitHub account. This 
 Change the current working directory to the location where you want the cloned directory to be made.
 4. Type git clone, and then paste the URL copied from GitHub.
 5. Press enter and the local clone will be created.
+
+# Credits 
+### Content
+* The font came from [Google Fonts](https://fonts.google.com/).
+* The icons came from [Font Awesome](https://fontawesome.com/).
+### Media
+* The media came from [Pexels](https://www.pexels.com/search/healthy%20sweet%20food/).
+
+# Acknowledgements
+The website was built for my first project of my course from Code Institute. I would like to gratefully thank my mentor Precious Ijege for helping through the steps of this project, he guided me along and helped me in every single step. Would also like to thank the tutors from Code Institute who helped me so much throughout these weeks with every doubt i had. Everyone is so patience and competent. 
+Healthy Sugar Club is a fictional community, but i still would encourage everyone to follow this path for a better life.
+
+Julia Volponi 2024.
