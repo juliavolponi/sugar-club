@@ -9,9 +9,9 @@ Welcome to Healthy Sugar Club Community [Healthy Sugar Club](https://juliavolpon
 # User Experience
 
 ## Design Choices
-* ### Tipography
-  * The font chosen were 'Rajdhani' for the heading and for the body text. It falls back to sans-serif respectively.
-* ## Colour Scheme 
+  * ### Tipography
+    * The font chosen were 'Rajdhani' for the heading and for the body text. It falls back to sans-serif respectively.
+* ## Colour Scheme   
   * The colour scheme eventually chosen is based on pink/salmon and off-white. The colour contrasts with the fruits colour in many of the images. Pink traditionally gives the impression of woman, sweet and empowerment. This is something that Healthy Sugar Club can hopefully pass onto the user.
 
 ## Features
